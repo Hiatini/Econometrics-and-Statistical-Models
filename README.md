@@ -1,4 +1,4 @@
-# :pushpin: Academic Project in Digital Economy and New Business Models
+# :pushpin: Academic Project in Econometrics and Statistical Models
 ##### Introduction
 In order to develop a business analytics approach, I need to work on a real-world situation.
 ##### Objectives
